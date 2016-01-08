@@ -169,7 +169,7 @@
                 }
             }
 
-            this.options.onShow(e);
+            this.options.onShow();
         }
 
       , hide: function(callback) {
